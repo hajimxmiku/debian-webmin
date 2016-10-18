@@ -1,2 +1,0 @@
-# debian-webmin
-By hajimxmiku
